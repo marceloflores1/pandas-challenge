@@ -21,7 +21,7 @@ There is a jupyter notebook that uses Pandas and Dataframes to solve this and th
 
 2. Py City Schools
 
-The objective is to analyze two files containing Student and School information to break it down and look for trends on the following:
+The objective is to analyze two files containing Student and School information and look for trends while calculating the following:
 - District Summary
 - School Summary
 - Top Performing Schools
